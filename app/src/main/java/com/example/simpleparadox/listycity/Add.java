@@ -10,6 +10,6 @@ public class Add {
 
     }
     public int add(){
-        return 1;
+        return this.i+this.j;
     }
 }

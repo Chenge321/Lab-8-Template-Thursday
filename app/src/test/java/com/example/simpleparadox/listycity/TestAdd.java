@@ -11,10 +11,6 @@ public class TestAdd {
         Add add = new Add(1,2);
         assertEquals(3,add.add());
     }
-    @Test
-    public void testAdd2(){
-        Add add = new Add(1,2);
-        assertEquals(3,add.add());
-    }
+
 }
 
